@@ -36,7 +36,7 @@ namespace MultiplayerSnakeGame
             InitializeComponent();
         }
         #region sumVars
-        int xx = 5;
+        int xx = 55;
         #endregion
 
         /// <summary>
