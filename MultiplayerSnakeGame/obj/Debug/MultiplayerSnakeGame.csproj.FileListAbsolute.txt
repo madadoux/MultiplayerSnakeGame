@@ -16,3 +16,6 @@ C:\Users\mada1\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\De
 C:\Users\mada1\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.exe
 C:\Users\mada1\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.pdb
 C:\Users\mada1\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\bin\Debug\MultiplayerSnakeGame.exe.config
+C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.exe
+C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.pdb
