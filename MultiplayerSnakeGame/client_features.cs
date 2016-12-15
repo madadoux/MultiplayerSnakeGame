@@ -9,9 +9,9 @@ namespace MultiplayerSnakeGame
 {
     class client_features
     {
-        IPAddress ip_address;
-        int rank;
-        bool current_player;
-        Socket client_socket;
+       public IPAddress ip_address;
+       public int rank;
+       public bool current_player;
+       public Socket client_socket;
     }
 }
