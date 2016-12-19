@@ -25,3 +25,5 @@ C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj
 C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.Form1.resources
 C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.Properties.Resources.resources
 C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.csproj.GenerateResource.Cache
+C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.Form2.resources
+C:\Users\hp.hp-PC\Documents\GitHub\MultiplayerSnakeGame\MultiplayerSnakeGame\obj\Debug\MultiplayerSnakeGame.Form3.resources

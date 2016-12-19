@@ -59,7 +59,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(231, 38);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Start";
+            this.button2.Text = "Start Now";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
