@@ -35,22 +35,6 @@ namespace MultiplayerSnakeGame
         {
             InitializeComponent();
         }
-        #region sumVars
-        int xx = 55;
-        #endregion
-
-        /// <summary>
-        /// return the sum of 2 numbers 
-        /// </summary>
-        /// <param name="x"></param>
-        /// <param name="y"></param>
-        /// <returns></returns>
-        int sum(int x, int y)
-        {
-
-            return xx + x + y;
-        }
-
         /// <summary>
         /// this method get a random dice number and renders its relative image on the button
         /// </summary>

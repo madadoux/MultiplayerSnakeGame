@@ -13,5 +13,10 @@ namespace MultiplayerSnakeGame
        public int rank;
        public bool current_player;
        public Socket client_socket;
+       public client_features(String IpAddress)
+       {
+          this.ip_address = IPAddress.Parse(IpAddress);
+          client_socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+       }
     }
 }
